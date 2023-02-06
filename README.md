@@ -34,6 +34,6 @@ Arguments:
 
 # License
 
-This software and navigation data from X-Plane are released under the GPLv3 license.
+This software and the database are released under the GPLv3 license.
 
 Navigation data from X-Plane are released under the GPL license: https://developer.x-plane.com/docs/data-development-documentation/
