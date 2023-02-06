@@ -1,7 +1,7 @@
 TARGET = xpdatabase
 
 QT -= gui
-QT += qml positioning network
+QT += positioning
 
 CONFIG += c++11 console
 CONFIG -= app_bundle
