@@ -15,8 +15,10 @@ Contents
 --------
 You will find navigation data organized by X-Plane version, in subdirectories such as:
 
-  /xp11/
-  /xp12/
+  - xp9/
+  - xp10/
+  - xp11/
+  - xp12/
 
 Each folder contains the relevant files such as:
   - earth_nav.dat
